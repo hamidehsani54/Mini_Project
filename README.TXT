@@ -5,6 +5,7 @@ All the text file is located in the bbc folder. The bbc folder should be placed 
 
 Video link: https://www.youtube.com/watch?v=uAmMSOxjF8M&feature=youtu.be&ab_channel=HamidEhsani
 
+Group: 7
 Group Members
 Hamidullah Ehsani Qurban
 Oskar Dahlbeck
